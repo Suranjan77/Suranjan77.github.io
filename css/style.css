@@ -18,7 +18,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: #EAE7DC;
+    background-color: #a6d0e6;
     font-family: 'Barlow', Helvetica;
 }
 
@@ -70,7 +70,7 @@ header a {
 }
 
 header a:hover {
-    color: #E85A4F;
+    color: #8a6626;
     cursor: pointer;
     font-weight: 1000;
 }
@@ -87,12 +87,12 @@ main {
 
 .large-font {
     font-size: 3em;
-    color: #E85A4F;
+    color: #ed553b;
 }
 
-.colored {
+/* .colored {
     color: #E98074;
-}
+} */
 
 .hero {
     background-image: url('./../images/suranjan_rm_bg.png');
@@ -101,7 +101,7 @@ main {
     background-size: contain;
 
     text-align: center;
-    border-top: 5px solid #E85A4F;
+    border-top: 5px solid #ed553b;
     height: 200px;
     width: 200px;
     margin-left: auto;
@@ -152,16 +152,16 @@ main {
     display: block;
     height: 8px;
     width: 200px;
-    border: 1px solid rgba(232, 90, 79, 0.3);
-    border-radius: 3px;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
     overflow: hidden;
-    box-shadow: rgba(233, 128, 116, 0.2) 0px 4px 12px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 12px;
 }
 
 .bar span {
     height: 8px;
     float: left;
-    background-color: #E98074;
+    background-color: #719294;
 }
 
 footer {
