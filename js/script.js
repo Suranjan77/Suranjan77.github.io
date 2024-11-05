@@ -63,11 +63,11 @@ const categorizedSkills = [
         skills: [
             {
                 name: "JDK 11",
-                level: "90%",
+                level: "95%",
                 index: 0
             },
             {
-                name: "Golang",
+                name: "Rust",
                 level: "40%",
                 index: 1
             },
@@ -87,8 +87,8 @@ const categorizedSkills = [
                 index: 3
             },
             {
-                name: "Gin Web Framework",
-                level: "30%",
+                name: "C++",
+                level: "50%",
                 index: 4
             },
             {
